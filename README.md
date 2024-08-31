@@ -21,9 +21,11 @@ Check out the live demo hosted on Netlify: [Netflix Clone Demo](https://n2tflix.
 
 ## Technologies Used
 
+<p>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
-  
+</p>
+
 - **HTML:** For the structure of the webpage.
 - **CSS:** For styling and layout, including responsive design.
 
